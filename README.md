@@ -2,14 +2,14 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#5](https://github.com/jurumi0823/DevOpsFinal/issues/5) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-2. 🆕 Opened an issue [#4](https://github.com/jurumi0823/DevOpsFinal/issues/4) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-3. 🆕 Opened an issue [#3](https://github.com/jurumi0823/DevOpsFinal/issues/3) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-4. 🆕 Opened an issue [#2](https://github.com/jurumi0823/DevOpsFinal/issues/2) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-5. 🆕 Opened an issue [#1](https://github.com/jurumi0823/DevOpsFinal/issues/1) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-6. undefined
-7. undefined
-8. undefined
-9. ➕ Created a new branch [`main`](https://github.com/jurumi0823/DevOpsFinal/tree/main) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-10. 🎉 Created a new repository [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+1. 🆕 Opened an issue [#15](https://github.com/jurumi0823/DevOpsFinal/issues/15) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+2. 🆕 Opened an issue [#14](https://github.com/jurumi0823/DevOpsFinal/issues/14) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+3. 🆕 Opened an issue [#13](https://github.com/jurumi0823/DevOpsFinal/issues/13) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+4. 🆕 Opened an issue [#12](https://github.com/jurumi0823/DevOpsFinal/issues/12) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+5. 🆕 Opened an issue [#11](https://github.com/jurumi0823/DevOpsFinal/issues/11) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+6. 🆕 Opened an issue [#10](https://github.com/jurumi0823/DevOpsFinal/issues/10) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+7. 🆕 Opened an issue [#9](https://github.com/jurumi0823/DevOpsFinal/issues/9) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+8. 🆕 Opened an issue [#8](https://github.com/jurumi0823/DevOpsFinal/issues/8) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+9. 🆕 Opened an issue [#7](https://github.com/jurumi0823/DevOpsFinal/issues/7) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
+10. 🆕 Opened an issue [#6](https://github.com/jurumi0823/DevOpsFinal/issues/6) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
 <!--END_SECTION:activity-->
