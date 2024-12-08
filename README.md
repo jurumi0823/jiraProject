@@ -2,14 +2,14 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 📝 Committed to [jurumi0823/-](https://github.com/jurumi0823/-/commit/cf9907030063eabff01a772353f9af0e2793ece1)
-2. 📝 Committed to [jurumi0823/-](https://github.com/jurumi0823/-/commit/4f9fac0c5140a94c67e2e55c30482f30682604bf)
-3. 🎉 Created a new repository [jurumi0823/-](https://github.com/jurumi0823/-)
-4. ➕ Created a new branch [`main`](https://github.com/jurumi0823/-/tree/main) in [jurumi0823/-](https://github.com/jurumi0823/-)
-5. 🔎 Reviewed [PR #26](https://github.com/jurumi0823/DevOpsFinal/pull/26) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-6. 🔎 Reviewed [PR #25](https://github.com/jurumi0823/DevOpsFinal/pull/25) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-7. 🔎 Reviewed [PR #24](https://github.com/jurumi0823/DevOpsFinal/pull/24) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-8. 🔎 Reviewed [PR #23](https://github.com/jurumi0823/DevOpsFinal/pull/23) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-9. 🔎 Reviewed [PR #22](https://github.com/jurumi0823/DevOpsFinal/pull/22) in [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal)
-10. 📝 Committed to [jurumi0823/DevOpsFinal](https://github.com/jurumi0823/DevOpsFinal/commit/bee6c7bfdf7ca4985e7fc8f485b6a039d5eef264)
+1. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/661409b2a9b511d70767543e08cd2fef48a65e55)
+2. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/18a5418ab3adf49384aeace6b370c072e54a8ec7)
+3. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/17a5bb11baf428012678046c89ee8fc26440669e)
+4. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/37392eaee2359e7d3d43eee7b484b58faa737643)
+5. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/0ed3497c1b856aef326adc7dad3d7f34f5bcfa52)
+6. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/be2e28cef348d26df75def518b1c67ccfab0db9f)
+7. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/4879a6ad39157b870c5ba4674eafa06dd22903f6)
+8. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/0557be5b8428b53b39fff65875255aa9dbded2af)
+9. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/5254a3c4ba3b020eacafb74641904e400416fe73)
+10. 📝 Committed to [jurumi0823/sleep_detection](https://github.com/jurumi0823/sleep_detection/commit/b45c34ec0854dfaa5efd1201765fe31a5b61c824)
 <!--END_SECTION:activity-->
